@@ -5,7 +5,7 @@ import subprocess
 import ipaddress
 
 
-def run(args)
+def run(args):
 	
 	output_file = "/home/kali/portScan.txt"
 	input_file = ""
